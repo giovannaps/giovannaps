@@ -6,16 +6,16 @@
 
 ---
 
-### 🎀 About Me
+### 👩🏻‍💻 About Me
 
 - 💻 Back-end Developer
 - 🗄️ Database Lover
 - 🎮 Game Dev enthusiast (Lua & Unity)
-- 🌸 I like building cute and powerful things
+
 
 ---
 
-### 💖 Technologies I Love
+### 📝 Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-F75C7E?style=for-the-badge&logo=java&logoColor=white" />
