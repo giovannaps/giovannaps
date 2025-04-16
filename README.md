@@ -1,23 +1,28 @@
 <h1 align="center">Hi 👋, I'm Giovanna</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Back-end+Developer;Database+Enthusiast;Always+Learning+and+Evolving" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="400" alt="Cute GIF"/>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🎀 About Me
+
+- 💻 Back-end Developer
+- 🗄️ Database Lover
+- 🎮 Game Dev enthusiast (Lua & Unity)
+- 🌸 I like building cute and powerful things
+
+---
+
+### 💖 Technologies I Love
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/Java-F75C7E?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-FFC0CB?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-F75C7E?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -25,39 +30,42 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=giovannaps&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=radical" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=giovannaps&show_icons=true&theme=rose_pine" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=rose_pine" />
 </p>
 
 ---
 
-### 🏆 Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giovannaps&theme=radical" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=giovannaps&theme=rose_pine" />
 </p>
 
 ---
 
-### 🔥 Streak
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=giovannaps&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=giovannaps&theme=rose_pine" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giovannapslima/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/giovannaps/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-F75C7E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/giovannaps" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👁️ Visitors
+### 🌸 Visitors
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=giovannaps.giovannaps" alt="Visitor Badge"/>
