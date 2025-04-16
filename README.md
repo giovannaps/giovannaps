@@ -11,7 +11,7 @@
 <p align="center">
   - 💻 Back-end Developer<br>
   - 🗄️ Database Enthusiast<br>
-  - 🎮 Passionate about Game Development (Lua & Unity)<br>
+  - 🎮 Passionate about Game Development <br>
   - 🎓 Studying Systems for the Web at UNICAP<br>
   - 🎓 Engineering of Computing at UPE<br>
 
