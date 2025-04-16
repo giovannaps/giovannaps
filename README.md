@@ -6,37 +6,35 @@
 
 ---
 
-### 👩🏻‍💻 About Me
-
-- 💻 Back-end Developer
-- 🗄️ Database Lover
-- 🎮 Game Dev enthusiast (Lua & Unity)
-
-
----
-
-### 📝 Skills
+### 🎮 About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-F75C7E?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-FFC0CB?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-F75C7E?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="100" alt="Skill GIF"/>
 </p>
 
+- 💻 Back-end Developer
+- 🗄️ Database Enthusiast
+- 🎮 Passionate about Game Development (Lua & Unity)
+
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Technologies I Love
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=giovannaps&show_icons=true&theme=rose_pine" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=rose_pine" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="100" alt="Skill GIF"/>
+  <img src="https://img.shields.io/badge/Java-FF6F61?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-FFB6C1?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-FF7F7F?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FF9A8B?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="100" alt="Trophy GIF"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=giovannaps&theme=rose_pine" />
@@ -47,26 +45,17 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="100" alt="Streak GIF"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=giovannaps&theme=rose_pine" />
 </p>
 
 ---
 
-### 🌐 Connect with me
+### 👁️ Visitors
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giovannaps/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-F75C7E?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/giovannaps" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🌸 Visitors
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=giovannaps.giovannaps" alt="Visitor Badge"/>
+  <img src="https://img.shields.io/badge/Visitors-love~pink-FF9A8B?style=for-the-badge&logo=eye&logoColor=white" />
 </p>
