@@ -6,22 +6,21 @@
 
 ---
 
-### 🎮 About Me
+### 👩🏻‍💻 About Me
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="100" alt="Skill GIF"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="50" alt="Skill GIF"/>
+  <span>💻 Back-end Developer</span><br/>
+  <span>🗄️ Database Enthusiast</span><br/>
+  <span>🎮 Passionate about Game Development (Lua & Unity)</span>
 </p>
-
-- 💻 Back-end Developer
-- 🗄️ Database Enthusiast
-- 🎮 Passionate about Game Development (Lua & Unity)
 
 ---
 
 ### 🛠️ Technologies I Love
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="100" alt="Skill GIF"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="50" alt="Skill GIF"/>
   <img src="https://img.shields.io/badge/Java-FF6F61?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-FFB6C1?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-FF7F7F?style=for-the-badge&logo=unity&logoColor=white" />
@@ -33,7 +32,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="100" alt="Trophy GIF"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="50" alt="Trophy GIF"/>
 </p>
 
 <p align="center">
@@ -45,7 +44,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="100" alt="Streak GIF"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="50" alt="Streak GIF"/>
 </p>
 
 <p align="center">
@@ -57,5 +56,6 @@
 ### 👁️ Visitors
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-love~pink-FF9A8B?style=for-the-badge&logo=eye&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visitors-FF9A8B?style=for-the-badge&logo=eye&logoColor=white" />
 </p>
+
