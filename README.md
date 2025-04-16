@@ -6,7 +6,7 @@
 
 ---
 
-### 👩🏻‍💻 About Me
+### 🎮 About Me
 
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="50" alt="Skill GIF"/>
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giovannaps&theme=rose_pine" />
+  <img src="https://github-profile-trophy.vercel.app/?username=giovannaps&theme=juicyfresh&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=giovannaps&theme=rose_pine" />
+  <img src="https://streak-stats.demolab.com?user=giovannaps&theme=radical" />
 </p>
 
 ---
