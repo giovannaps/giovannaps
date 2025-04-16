@@ -9,7 +9,7 @@
 ### 🎮 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="400" alt="Cute GIF"/>
+  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="50" alt="Cute GIF"/>
 </p>
 
 
@@ -25,7 +25,7 @@
 ### 🛠️ Technologies I Love
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="400" alt="Cute GIF"/>
+  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="50" alt="Cute GIF"/>
   <img src="https://img.shields.io/badge/Java-FF6F61?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-FFB6C1?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-FF7F7F?style=for-the-badge&logo=unity&logoColor=white" />
@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="400" alt="Cute GIF"/>
+  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="50" alt="Cute GIF"/>
 </p>
 
 
@@ -50,7 +50,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="400" alt="Cute GIF"/>
+  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="50" alt="Cute GIF"/>
 </p>
 
 <p align="center">
@@ -62,6 +62,6 @@
 ### 👁️ Visitors
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="400" alt="Cute GIF"/>
+  <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="50" alt="Cute GIF"/>
 </p>
 
