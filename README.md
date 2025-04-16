@@ -10,10 +10,14 @@
 
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..." width="50" alt="Skill GIF"/>
-  <span>💻 Back-end Developer</span><br/>
-  <span>🗄️ Database Enthusiast</span><br/>
-  <span>🎮 Passionate about Game Development (Lua & Unity)</span>
 </p>
+
+- 💻 Back-end Developer  
+- 🗄️ Database Enthusiast  
+- 🎮 Passionate about Game Development (Lua & Unity)  
+- 🎓 Studying Systems for the Web at UNICAP  
+- 🎓 Engineering of Computing at UPE  
+- 💖 Absolutely love the tech world!
 
 ---
 
@@ -58,4 +62,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visitors-FF9A8B?style=for-the-badge&logo=eye&logoColor=white" />
 </p>
-
