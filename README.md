@@ -14,7 +14,7 @@
   - 🎮 Passionate about Game Development (Lua & Unity)<br>
   - 🎓 Studying Systems for the Web at UNICAP<br>
   - 🎓 Engineering of Computing at UPE<br>
-  - 💖 Absolutely love the tech world!
+
 </p>
 
 ---
