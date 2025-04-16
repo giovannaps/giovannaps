@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovanna</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="250" alt="New Cool GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="400" alt="New Cool GIF"/>
 </p>
 
 ---
