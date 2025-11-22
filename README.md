@@ -12,8 +12,8 @@
   - 💻 Back-end Developer<br>
   - 🗄️ Database Enthusiast<br>
   - 🎮 Passionate about Game Development <br>
-  - 🎓 Studying Systems for the Web at UNICAP<br>
-  - 🎓 Engineering of Computing at UPE<br>
+  - 🎓 Studying Internet Systems at UNICAP<br>
+  - 🎓 Studying Computer Engineering at UPE<br>
 
 </p>
 
