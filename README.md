@@ -1,25 +1,17 @@
-<h1 align="center">Hi 👋, I'm Giovanna</h1>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="400" alt="New Cool GIF"/>
-</p>
+<h1 align="center">Hi, I'm Giovanna 👋</h1>
 
 ---
 
-### 🎮 About Me <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="30" align="right" />
+### About Me
 
-<p align="center">
-  - 💻 Back-end Developer<br>
-  - 🗄️ Database Enthusiast<br>
-  - 🎮 Passionate about Game Development <br>
-  - 🎓 Studying Internet Systems at UNICAP<br>
-  - 🎓 Studying Computer Engineering at UPE<br>
-
-</p>
+- 💻 Back-end Developer  
+- 🗄️ Database Enthusiast  
+- 🎓 Studying Internet Systems at UNICAP  
+- 🎓 Studying Computer Engineering at UPE  
 
 ---
 
-### 🛠️ Technologies I Love <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="30" align="right" />
+### Technologies I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FF6F61?style=for-the-badge&logo=java&logoColor=white" />
@@ -30,24 +22,21 @@
 
 ---
 
-### 🏆 GitHub Trophies <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="30" align="right" />
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giovannaps&theme=juicyfresh&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=giovannaps&theme=dark&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=giovannaps&theme=dark" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="30" align="right" />
+### Visitors
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=giovannaps&theme=radical" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=giovannaps.giovannaps" />
 </p>
 
----
-
-### 👁️ Visitors <img src="https://raw.githubusercontent.com/giovannaps/giovannaps/main/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif" width="30" align="right" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-FF9A8B?style=for-the-badge&logo=eye&logoColor=white" />
-</p>
