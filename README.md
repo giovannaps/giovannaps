@@ -47,9 +47,7 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giovannaps&theme=dark&column=4&margin-w=15&margin-h=15" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=giovannaps&theme=dark" />
