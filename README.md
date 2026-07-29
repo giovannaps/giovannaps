@@ -20,9 +20,10 @@
 ─────────────── ❀ ───────────────
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F48FB1&center=true&vCenter=true&width=300&lines=About" alt="About Header" />
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center"><span style="color: #F48FB1;">About</span></h3>
 
 ```toml
 # giovanna.toml
@@ -30,58 +31,36 @@
 name = "Giovanna Lima"
 
 education = [
-    "Internet Systems Graduate",
-    "Computer Engineering Student"
+  "Internet Systems",
+  "Computer Engineering"
 ]
 
 stack = [
-    "Java / Spring Boot",
-    "Python / FastAPI",
-    "Data Engineering"
+  "Java / Spring Boot",
+  "Python / FastAPI",
+  "Data Engineering"
 ]
 ```
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center"><span style="color: #F48FB1;">Tech Stack</span></h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,spring,fastapi,nodejs,react,nextjs&perline=5" alt="Tech Stack Line 1" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,postman,vscode,figma&perline=4" alt="Tech Stack Line 2" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 ─────────────── ❀ ───────────────
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F48FB1&center=true&vCenter=true&width=300&lines=Tech+Stack" alt="Tech Stack Header" />
-</div>
 
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,spring,fastapi,nodejs,react,nextjs&perline=10" alt="Tech Stack Line 1" />
+<img src="https://komarev.com/ghpvc/?username=giovannaps&color=F48FB1&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits" />
 
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,postman,vscode,figma&perline=10" alt="Tech Stack Line 2" />
-
-</div>
-
-<p align="center">
-─────────────── ❀ ───────────────
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F48FB1&center=true&vCenter=true&width=400&lines=Most+Used+Languages" alt="Analytics Header" />
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=rose_pine&bg_color=0d1117&title_color=F48FB1&text_color=c0c0c0&hide_border=true&langs_count=8" alt="Top Languages Chart" />
-
-</div>
-
-<p align="center">
-─────────────── ❀ ───────────────
-</p>
-
-<div align="center">
 
 <sub><i>Building one project at a time.</i></sub>
 
