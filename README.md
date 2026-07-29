@@ -20,7 +20,9 @@
 ─────────────── ❀ ───────────────
 </p>
 
-<h2 align="center"><font color="#F48FB1">About</font></h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F48FB1&center=true&vCenter=true&width=300&lines=About" alt="About Header" />
+</div>
 
 ```toml
 # giovanna.toml
@@ -43,7 +45,9 @@ stack = [
 ─────────────── ❀ ───────────────
 </p>
 
-<h2 align="center"><font color="#F48FB1">Tech Stack</font></h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F48FB1&center=true&vCenter=true&width=300&lines=Tech+Stack" alt="Tech Stack Header" />
+</div>
 
 <br>
 
@@ -61,7 +65,9 @@ stack = [
 ─────────────── ❀ ───────────────
 </p>
 
-<h2 align="center"><font color="#F48FB1">Most Used Languages</font></h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F48FB1&center=true&vCenter=true&width=400&lines=Most+Used+Languages" alt="Analytics Header" />
+</div>
 
 <br>
 
@@ -73,3 +79,10 @@ stack = [
 
 <p align="center">
 ─────────────── ❀ ───────────────
+</p>
+
+<div align="center">
+
+<sub><i>Building one project at a time.</i></sub>
+
+</div>
