@@ -20,7 +20,7 @@
 ─────────────── ❀ ───────────────
 </p>
 
-## About
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F48FB1&width=200&lines=About" alt="About Header" />
 
 ```toml
 # giovanna.toml
@@ -43,7 +43,9 @@ stack = [
 ─────────────── ❀ ───────────────
 </p>
 
-## Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F48FB1&width=250&lines=Tech+Stack" alt="Tech Stack Header" />
+
+<br>
 
 <div align="center">
 
@@ -59,29 +61,13 @@ stack = [
 ─────────────── ❀ ───────────────
 </p>
 
-## GitHub Analytics
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=giovannaps&show_icons=true&theme=rose_pine&bg_color=0d1117&title_color=F48FB1&icon_color=F48FB1&text_color=c0c0c0&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=rose_pine&bg_color=0d1117&title_color=F48FB1&text_color=c0c0c0&hide_border=true&hide=html,css" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=giovannaps&theme=rose_pine&background=0D1117&border=F48FB1&stroke=F48FB1&ring=F48FB1&fire=F48FB1&currStreakLabel=F48FB1&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F48FB1&width=300&lines=Most+Used+Languages" alt="Analytics Header" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giovannaps&theme=react-dark&bg_color=0d1117&color=F48FB1&line=F48FB1&point=c0c0c0&area=true&hide_border=true" alt="Contribution Graph" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=donut&theme=rose_pine&bg_color=0d1117&title_color=F48FB1&text_color=c0c0c0&hide_border=true" alt="Top Languages Donut Chart" />
 
 </div>
 
