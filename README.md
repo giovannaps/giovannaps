@@ -1,63 +1,82 @@
 <h1 align="center">Hi, I'm Giovanna 👋</h1>
 
+<p align="center">
+  Internet Systems Graduate • Computer Engineering Student <br>
+  Building software, exploring data and always learning.
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/giovannapslima">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:giovannapslima.gpsl@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
+
 ---
 
-### About Me
 
-- 💻 Back-end Developer  
-- 🗄️ Database Enthusiast  
-- 🎓 Studying Internet Systems at UNICAP  
-- 🎓 Studying Computer Engineering at UPE  
+## <img src="https://skillicons.dev/icons?i=github" width="24"/> About
+
+- Internet Systems Graduate and Computer Engineering Student.
+- Building projects with Java, Python and SQL.
+- Interested in Software Development, Data and AI.
+- Currently studying Software Architecture and Data Engineering.
 
 ---
+
+## <img src="https://skillicons.dev/icons?i=java" width="24"/> Tech Stack
 
 ### Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FF6F61?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma"/>
 </p>
 
 ---
 
-### Frameworks & Tools
+## <img src="https://skillicons.dev/icons?i=githubactions" width="24"/> Currently
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExpoGo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
+- Building personal projects.
+- Learning Data Engineering.
+- Improving Java & Spring Boot.
+- Exploring AI applications.
 
 ---
 
-### Databases
+## <img src="https://skillicons.dev/icons?i=github" width="24"/> GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannaps&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
-
-### GitHub Stats
-
-
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=giovannaps&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=giovannaps&theme=github-dark-blue&hide_border=true"/>
 </p>
-
----
-
-### Visitors
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=giovannaps.giovannaps" />
-</p>
-
