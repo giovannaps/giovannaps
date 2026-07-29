@@ -1,8 +1,6 @@
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,31&height=180&section=header&text=Giovanna%20Lima&fontSize=42&fontColor=F48FB1&animation=twinkle&fontAlignY=35" alt="Header Giovanna Lima" />
+# Giovanna Lima
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=Internet+Systems+Graduate;Computer+Engineering+Student;Software%2C+Data+%26+AI;Building+with+Java+%26+Python" alt="Typing SVG" />
 
