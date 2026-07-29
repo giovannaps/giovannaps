@@ -77,6 +77,10 @@ stack = [
 
 <div align="center">
 
-<sub><i>Building one project at a time.</i></sub>
+<h2 align="center"><font color="#F48FB1">Most Used Languages</font></h2>
+
+<br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=rose_pine&bg_color=0d1117&title_color=F48FB1&text_color=c0c0c0&hide_border=true" alt="Top Languages Chart" />
 
 </div>
