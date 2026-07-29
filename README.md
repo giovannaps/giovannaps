@@ -20,7 +20,7 @@
 ─────────────── ❀ ───────────────
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F48FB1&width=200&lines=About" alt="About Header" />
+<h2 align="center"><font color="#F48FB1">About</font></h2>
 
 ```toml
 # giovanna.toml
@@ -43,7 +43,7 @@ stack = [
 ─────────────── ❀ ───────────────
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F48FB1&width=250&lines=Tech+Stack" alt="Tech Stack Header" />
+<h2 align="center"><font color="#F48FB1">Tech Stack</font></h2>
 
 <br>
 
@@ -61,26 +61,15 @@ stack = [
 ─────────────── ❀ ───────────────
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F48FB1&width=300&lines=Most+Used+Languages" alt="Analytics Header" />
+<h2 align="center"><font color="#F48FB1">Most Used Languages</font></h2>
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=donut&theme=rose_pine&bg_color=0d1117&title_color=F48FB1&text_color=c0c0c0&hide_border=true" alt="Top Languages Donut Chart" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=rose_pine&bg_color=0d1117&title_color=F48FB1&text_color=c0c0c0&hide_border=true&langs_count=8" alt="Top Languages Chart" />
 
 </div>
 
 <p align="center">
 ─────────────── ❀ ───────────────
-</p>
-
-<div align="center">
-
-<h2 align="center"><font color="#F48FB1">Most Used Languages</font></h2>
-
-<br>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=rose_pine&bg_color=0d1117&title_color=F48FB1&text_color=c0c0c0&hide_border=true" alt="Top Languages Chart" />
-
-</div>
