@@ -1,99 +1,133 @@
+
 <div align="center">
 
-# Hi, I'm Giovanna 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=F48FB1&text=Giovanna%20Lima&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=55&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2500&color=F48FB1&center=true&vCenter=true&width=500&lines=Internet+Systems+Graduate;Computer+Engineering+Student;Building+software+%E2%9C%A8;Exploring+Data+%26+AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=F48FB1&center=true&vCenter=true&width=650&lines=Building+software.;Exploring+Data.;Learning+every+day.;Always+curious+about+new+technologies."/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/giovannapslima" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<a href="https://www.linkedin.com/in/giovannapslima">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:giovannapslima.gpsl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FCE4EC?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </div>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F48FB1"/>
+</p>
 
-<img align="right" alt="Coding Girl" width="280" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<h2 align="center">About</h2>
 
-## 🌸 About Me
+```bash
+giovanna@github:~$ whoami
 
-```yaml
-name: Giovanna Lima
+Giovanna Lima
 
-education:
-  - Internet Systems Graduate
-  - Computer Engineering Student
+giovanna@github:~$ education
 
-currently:
-  - Building software with Java & Python
-  - Exploring Data Engineering
-  - Learning Artificial Intelligence
+• Internet Systems Graduate
+• Computer Engineering Student
 
-interests:
-  - Software Development
-  - Data
-  - Software Architecture
+giovanna@github:~$ interests
+
+• Software Development
+• Data
+• Artificial Intelligence
+
+giovanna@github:~$ currently_learning
+
+• Spring Boot
+• Data Engineering
+• Software Architecture
 ```
 
-<br>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F48FB1"/>
+</p>
 
----
-
-## 💗 Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-### Languages
+**Languages**
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts"/>
 
-### Backend
+<br><br>
+
+**Backend**
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
 
-### Frontend
+<br><br>
+
+**Frontend**
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
 
-### Databases
+<br><br>
+
+**Databases**
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 
-<img src="https://img.shields.io/badge/Oracle-F8BBD0?style=for-the-badge&logo=oracle&logoColor=black"/>
+<br><br>
 
-### Tools
+**Tools**
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma"/>
 
 </div>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F48FB1"/>
+</p>
 
-## 📊 GitHub Stats
+<h2 align="center">GitHub Overview</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannaps&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaps&layout=compact&theme=radical&hide_border=true&bg_color=00000000"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovannaps&theme=rose_pine"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=giovannaps&theme=radical&hide_border=true&background=00000000"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovannaps&theme=rose_pine"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovannaps&theme=rose_pine"/>
 
 </div>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F48FB1"/>
+</p>
 
 <div align="center">
 
-### 🌷 Thanks for visiting!
+```bash
+giovanna@github:~$ exit
 
-*"Always learning, one commit at a time."*
+Thanks for stopping by 
+```
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=F48FB1"/>
+
+````
