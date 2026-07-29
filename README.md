@@ -7,15 +7,18 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/giovannapslima">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+```html
+<p align="center">
+  <a href="https://www.linkedin.com/in/giovannapslima">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:giovannapslima.gpsl@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  </a>
+</p>
+```
 
-&nbsp;&nbsp;
-
-<a href="mailto:giovannapslima.gpsl@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
 
 </div>
 
